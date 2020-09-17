@@ -1,0 +1,19 @@
+#body{
+    background-color:1B262C;
+    color:white;
+}
+.kotak{
+    color:white;
+    background-color:1B262C;
+    border-bottom: 2px solid white;
+    border-right: none;
+    border-left: none;
+    border-top: none;
+    margin-top: 20px;
+}
+::placeholder{
+    Color: white;
+}
+.button{
+    margin-left:50px;
+}
